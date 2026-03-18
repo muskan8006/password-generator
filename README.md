@@ -32,6 +32,6 @@ python main.py
 3. Exit
 ```
 
-## by muskan
+## created By
 
 Muskan
