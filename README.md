@@ -31,7 +31,3 @@ python main.py
 2. Check Password Strength
 3. Exit
 ```
-
-## created By
-
-Muskan
