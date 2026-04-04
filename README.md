@@ -22,12 +22,3 @@ This is a simple Python project that can generate secure passwords and check pas
 
 ```
 python main.py
-```
-
-## Example
-
-```
-1. Generate Password
-2. Check Password Strength
-3. Exit
-```
