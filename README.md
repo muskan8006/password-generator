@@ -8,6 +8,11 @@ This is a simple Python project that can generate secure passwords and check pas
 * Check password strength (Weak / Medium / Strong)
 * Simple command line interface
 
+## Technologies Used
+
+* Python
+* Random Module
+* String Module
 
 ## How to Run
 
