@@ -2,7 +2,11 @@
 
 This is a simple Python project that can generate secure passwords and check password strength.
 
+## Features
 
+* Generate random strong passwords
+* Check password strength (Weak / Medium / Strong)
+* Simple command line interface
 
 ## Technologies Used
 
