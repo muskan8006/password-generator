@@ -1,6 +1,6 @@
 # Password Generator (Python)
 
-This is a simple Python project that can generate secure passwords and check password strength.
+This is a simple Python project that can generate secure passwords and check password strength weak or strong.
 
 ## Features
 
